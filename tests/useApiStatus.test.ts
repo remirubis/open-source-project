@@ -1,5 +1,5 @@
 import { renderHook } from '@testing-library/react-hooks';
-import useAPIStatus from '../useAPIStatus';
+import useAPIStatus from '../src/useAPIStatus';
 
 // Mock global.fetch
 beforeAll(() => {
