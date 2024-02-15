@@ -23,11 +23,11 @@
   "author": "Rémi RUBIS",
   "license": "MIT",
   "dependencies": {
-    "react": "^17.0.0"
+    "react": "^17.0.0",
+    "@testing-library/react-hooks": "^8.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.4.2",
-    "@testing-library/react-hooks": "^8.0.1",
     "@types/jest": "^29.5.12",
     "@types/react": "^17.0.75",
     "@types/react-dom": "^18.2.19",
