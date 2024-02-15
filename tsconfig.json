@@ -18,5 +18,5 @@
     "sourceMap": true,
     "incremental": true
   },
-  "include": ["src"]
+  "include": ["src", "tests"]
 }
