@@ -1,5 +1,5 @@
 import { renderHook } from '@testing-library/react-hooks';
-import useFetch from '../useFetch';
+import useFetch from '../src/useFetch';
 
 beforeAll(() => {
   global.fetch = jest.fn();
